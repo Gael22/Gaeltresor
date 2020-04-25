@@ -1,0 +1,165 @@
+{
+	"main": {
+		"name": "Gael Gohoungo",
+		"city": "Atlanta",
+		"occupation": "full satck web developer",
+		"description": " A Passionate software engineer ",
+		"image": "profilepic.jpg",
+		"bio": "I am a father, a husband, a web developer, a musician... I love people and i am a good team player. ",
+		"contactmessage": "Feel free to get in touch with me, i will be happy to hear from you",
+		"email": "gohoungogael@gmail.com",
+		"phone": "972-922-8184",
+		"address": {
+			"street": "1401 North hairston rd",
+			"city": "Stone Mountain",
+			"state": "Georgia",
+			"zip": "30083"
+		},
+		"website": "http://gaelgohoungo.com",
+		"resumedownload": "http://gaelgohoungo.com",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "http://facebook.com/gaeltresor.gohonugo",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "http://twitter.com/gaelgohoungo",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "google-plus",
+				"url": "http://googleplus.com/gael gohoungo",
+				"className": "fa fa-google-plus"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/gael-gohoungo-81306416b/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "http://instagram.com/gaeltresorgohoungo",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com/Gael22",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "skype",
+				"url": "http://skype.com/",
+				"className": "fa fa-skype"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here you can see some of my skills",
+		"education": [
+			{
+				"school": "Georgia technical institute ",
+				"degree": "Full stack developer certificate",
+				"graduated": "February 2020",
+				"description": "A 24 weeks intensive program focused on gaining technical programing skills in HTML5, CSS3, javaScript, jquery, bootstrap, nodeJs, Mysql,MongoDB, Express, Reactjs... "
+			},
+			{
+				"school": "University of Abomey-Calavi",
+				"degree": "Bachelor in linguistic",
+				"graduated": "July 2012",
+				"description": "A 4 years program focused on french language, literature, grammar, phonetic, phonology and many more. "
+			}
+		],
+		"work": [
+			{
+				"company": "Frelancer",
+				"title": "full satck developer ",
+				"years": "Febrary 2018 - Present",
+				"description": "created dynamic web applications using Reactjs, javaScript, Nodejs, MongoDB... "
+			},
+			{
+				"company": "CSBD",
+				"title": "French Teacher",
+				"years": "October 2012 - December 2104",
+				"description": "Focused on high school students education by teaching french language and literature."
+			}
+		],
+		"skills": [
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "javaScript",
+				"level": "75%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "50%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "HTML5",
+				"level": "90%"
+			},
+			{
+				"name": "nodeJs",
+				"level": "70%"
+			},
+			{
+				"name": "MongoDB",
+				"level": "80%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "GifTastic",
+				"category": "A Star and politians Api...",
+				"image": "Trump.jpg",
+				"url": "https://gael22.github.io/GifTastic/"
+			},
+			{
+				"title": "Christal game",
+				"category": "A simple math game ",
+				"image": "crystal.jpg",
+				"url": "https://gael22.github.io/crystal-game/"
+			},
+			{
+				"title": "bootstrap layout",
+				"category": "bootstrap demo",
+				"image": "bootstrap.jpg",
+				"url": "https://gael22.github.io/bootstrap-layout/"
+			},
+			{
+				"title": "Resume Website",
+				"category": "A React based resume website template",
+				"image": "resume-website.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "smirkspace.jpg",
+				"url": "http://www.smirkspace.com"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+				"user": "Kareem Abdul Jabbar"
+			},
+			{
+				"text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+				"user": "Steve Wozniak... impersonator"
+			}
+		]
+	}
+}
