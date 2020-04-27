@@ -137,16 +137,16 @@
 				"url": "https://gael22.github.io/bootstrap-layout/"
 			},
 			{
-				"title": "Resume Website",
-				"category": "A React based resume website template",
-				"image": "resume-website.jpg",
-				"url": "http://www.timbakerdev.com"
+				"title": "Trivia game",
+				"category": "A simple javaScript game",
+				"image": "trivia.jpg",
+				"url": "https://gael22.github.io/Trivia-Game/"
 			},
 			{
-				"title": "Smirkspace",
-				"category": "(MVP Only) A React and Meteor based chat University project.",
-				"image": "smirkspace.jpg",
-				"url": "http://www.smirkspace.com"
+				"title": "word guess game",
+				"category": "A javaScript guessing game.",
+				"image": "game.jpg",
+				"url": "https://gael22.github.io/Word-guess-game/"
 			}
 		]
 	},
