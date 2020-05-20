@@ -11,12 +11,12 @@
 		"phone": "972-922-8184",
 		"address": {
 			"street": "1401 North hairston rd",
-			"city": "Stone Mountain",
+			"city": "Atlanta",
 			"state": "Georgia",
 			"zip": "30083"
 		},
 		"website": "http://gaelgohoungo.com",
-		"resumedownload": "http://gaelgohoungo.com/#resume",
+		"resumedownload": "https://docs.google.com/document/d/1y6FXTa9dIGS9I_3VfpTrVehgV7fN7NRAPottDMGZeio/edit?usp=sharing",
 		"social": [
 			{
 				"name": "facebook",
@@ -28,11 +28,7 @@
 				"url": "http://twitter.com/gaelgohoungo",
 				"className": "fa fa-twitter"
 			},
-			{
-				"name": "google-plus",
-				"url": "http://googleplus.com/gael gohoungo",
-				"className": "fa fa-google-plus"
-			},
+
 			{
 				"name": "linkedin",
 				"url": "https://www.linkedin.com/in/gael-gohoungo-81306416b/",
@@ -47,11 +43,6 @@
 				"name": "github",
 				"url": "http://github.com/Gael22",
 				"className": "fa fa-github"
-			},
-			{
-				"name": "skype",
-				"url": "http://skype.com/",
-				"className": "fa fa-skype"
 			}
 		]
 	},
@@ -88,15 +79,15 @@
 		"skills": [
 			{
 				"name": "Git",
-				"level": "70%"
+				"level": "80%"
 			},
 			{
 				"name": "javaScript",
-				"level": "75%"
+				"level": "85%"
 			},
 			{
 				"name": "ReactJs",
-				"level": "50%"
+				"level": "80%"
 			},
 			{
 				"name": "CSS",
