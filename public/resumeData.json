@@ -79,7 +79,7 @@
 		"skills": [
 			{
 				"name": "Git",
-				"level": "80%"
+			    "level": "80%"
 			},
 			{
 				"name": "javaScript",
