@@ -113,6 +113,10 @@
 				"name": "mySql",
 				"level": "75%"
 			}
+			{
+				"name": "postgreSql",
+				"level": "75%"
+			}
 		]
 	},
 	"portfolio": {
